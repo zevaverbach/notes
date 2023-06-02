@@ -37,7 +37,7 @@ Use layers, use marquee tool and fill.
 
 ## Really Simple Full Layout Using Grid Template
 
-![grid template layout](./css-grid.png)
+![grid template layout](./grid-template.png)
 
 ### styles.css
 ```css
@@ -89,7 +89,7 @@ div {
 
 ## Nice Layout With Different Sized Boxes Using Grid Area
 
-![grid area layout](./css-area.png)
+![grid area layout](./grid-area.png)
 
 ### css
 
