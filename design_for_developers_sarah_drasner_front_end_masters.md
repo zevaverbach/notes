@@ -89,6 +89,8 @@ div {
 
 ## Nice Layout With Different Sized Boxes Using Grid Area
 
+![grid area layout](./css-area.png)
+
 ### css
 
 ```css
